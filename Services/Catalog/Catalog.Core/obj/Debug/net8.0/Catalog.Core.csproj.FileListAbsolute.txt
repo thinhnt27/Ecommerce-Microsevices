@@ -22,3 +22,4 @@ Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Co
 Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\refint\Catalog.Core.dll
 Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.pdb
 Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\ref\Catalog.Core.dll
+Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.sourcelink.json

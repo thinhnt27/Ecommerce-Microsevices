@@ -13,3 +13,4 @@ Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\ref
 Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Core.dll
 Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Core.pdb
 Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog..75771DFE.Up2Date
+Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.sourcelink.json

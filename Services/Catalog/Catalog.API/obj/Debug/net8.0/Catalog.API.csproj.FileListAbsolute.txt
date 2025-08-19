@@ -53,3 +53,4 @@ Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Catalog.Cor
 Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Catalog.Core.pdb
 Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Catalog.Infrastructure.dll
 Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Catalog.Infrastructure.pdb
+Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.sourcelink.json
