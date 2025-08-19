@@ -10,12 +10,5 @@ namespace Catalog.Core.Repositories
     public interface ITypeRepository
     {
         Task<IEnumerable<ProductType>> GetAllTypes();
-        Task<Product> GetProduct(string id);
-        Task<IEnumerable<Product>> GetProductByName(string name);
-        Task<IEnumerable<Product>> GetProductByrand(string name);
-        Task<Product> CreateProduct(Product product);
-        Task<bool> UpdateProduct(Product product);
-        Task<bool> DeleteProduct(string id);
-
     }
 }

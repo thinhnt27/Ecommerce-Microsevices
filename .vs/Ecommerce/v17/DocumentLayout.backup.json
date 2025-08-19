@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "Z:\\Code\\.NET\\Ecommerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{16468A74-CF1C-F71D-E8A6-9333559A2163}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|z:\\code\\.net\\ecommerce\\services\\catalog\\catalog.infrastructure\\data\\icatalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16468A74-CF1C-F71D-E8A6-9333559A2163}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\icatalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16468A74-CF1C-F71D-E8A6-9333559A2163}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|z:\\code\\.net\\ecommerce\\services\\catalog\\catalog.infrastructure\\data\\catalogcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16468A74-CF1C-F71D-E8A6-9333559A2163}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\catalogcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16468A74-CF1C-F71D-E8A6-9333559A2163}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|z:\\code\\.net\\ecommerce\\services\\catalog\\catalog.infrastructure\\data\\typecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16468A74-CF1C-F71D-E8A6-9333559A2163}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\typecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16468A74-CF1C-F71D-E8A6-9333559A2163}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|z:\\code\\.net\\ecommerce\\services\\catalog\\catalog.infrastructure\\data\\brandcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16468A74-CF1C-F71D-E8A6-9333559A2163}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\brandcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16468A74-CF1C-F71D-E8A6-9333559A2163}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|z:\\code\\.net\\ecommerce\\services\\catalog\\catalog.infrastructure\\data\\seeddata\\types.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16468A74-CF1C-F71D-E8A6-9333559A2163}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\seeddata\\types.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16468A74-CF1C-F71D-E8A6-9333559A2163}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|z:\\code\\.net\\ecommerce\\services\\catalog\\catalog.infrastructure\\data\\seeddata\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16468A74-CF1C-F71D-E8A6-9333559A2163}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\seeddata\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16468A74-CF1C-F71D-E8A6-9333559A2163}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|z:\\code\\.net\\ecommerce\\services\\catalog\\catalog.infrastructure\\data\\seeddata\\brands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16468A74-CF1C-F71D-E8A6-9333559A2163}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\seeddata\\brands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{933516A9-9F57-2D21-E1E7-AF9010E10C9E}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|z:\\code\\.net\\ecommerce\\services\\catalog\\catalog.core\\repositories\\ityperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{933516A9-9F57-2D21-E1E7-AF9010E10C9E}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\repositories\\ityperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,11 +58,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICatalogContext.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\ICatalogContext.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\ICatalogContext.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\ICatalogContext.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\ICatalogContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:30:00.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CatalogContextSeed.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContextSeed.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContextSeed.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContextSeed.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContextSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:29:34.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypeContextSeed.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\TypeContextSeed.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\TypeContextSeed.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\TypeContextSeed.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\TypeContextSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:24:22.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrandContextSeed.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\BrandContextSeed.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\BrandContextSeed.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\BrandContextSeed.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\BrandContextSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:08:26.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "types.json",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\types.json",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\types.json",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\types.json",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\types.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T07:58:23.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "products.json",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\products.json",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\products.json",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\products.json",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\products.json",
+              "ViewState": "AgIAAMIBAAAAAAAAAAAYwDECAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T07:57:52.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "brands.json",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\brands.json",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\brands.json",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\brands.json",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\brands.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T07:57:23.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
@@ -47,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "ITypeRepository.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Repositories\\ITypeRepository.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Repositories\\ITypeRepository.cs",
@@ -60,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "IBrandRepository.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Repositories\\IBrandRepository.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Repositories\\IBrandRepository.cs",
@@ -73,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Product.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Entities\\Product.cs",
@@ -86,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Entities\\BaseEntity.cs",
