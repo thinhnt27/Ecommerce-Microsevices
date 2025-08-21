@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FlO/uBZ/cv0=",
+  "dgSpecHash": "4O3ZvcroScI=",
   "success": true,
   "projectFilePath": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\PCIT\\.nuget\\packages\\asp.versioning.abstractions\\8.1.0\\asp.versioning.abstractions.8.1.0.nupkg.sha512",
+    "C:\\Users\\PCIT\\.nuget\\packages\\asp.versioning.http\\8.1.0\\asp.versioning.http.8.1.0.nupkg.sha512",
+    "C:\\Users\\PCIT\\.nuget\\packages\\asp.versioning.mvc\\8.1.0\\asp.versioning.mvc.8.1.0.nupkg.sha512",
     "C:\\Users\\PCIT\\.nuget\\packages\\aspnetcore.healthchecks.mongodb\\8.0.1\\aspnetcore.healthchecks.mongodb.8.0.1.nupkg.sha512",
     "C:\\Users\\PCIT\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\PCIT\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",

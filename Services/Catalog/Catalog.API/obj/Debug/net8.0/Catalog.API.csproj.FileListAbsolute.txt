@@ -61,3 +61,6 @@ Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\AutoMapper.
 Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\MediatR.dll
 Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\MediatR.Contracts.dll
 Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Asp.Versioning.Http.dll
+Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Asp.Versioning.Mvc.dll

@@ -2,11 +2,11 @@
 
 namespace Catalog.Application.Commands
 {
-    public class DeleteProductCommand : IRequest<bool>
+    public class DeleteProductByIdCommand : IRequest<bool>
     {
         public string Id { get; set; }
 
-        public DeleteProductCommand(string id)
+        public DeleteProductByIdCommand(string id)
         {
             Id = id;
         }
