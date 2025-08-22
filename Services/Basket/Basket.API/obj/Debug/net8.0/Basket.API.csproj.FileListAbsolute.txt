@@ -50,3 +50,8 @@ Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Microsoft.Ext
 Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Newtonsoft.Json.dll
 Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
 Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\StackExchange.Redis.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Asp.Versioning.Http.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\HealthChecks.UI.Client.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\HealthChecks.UI.Core.dll
