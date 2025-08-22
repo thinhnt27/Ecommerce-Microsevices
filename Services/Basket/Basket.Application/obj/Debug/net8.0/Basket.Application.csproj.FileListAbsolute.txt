@@ -1,0 +1,16 @@
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Application\bin\Debug\net8.0\Basket.Application.deps.json
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Application\bin\Debug\net8.0\Basket.Application.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Application\bin\Debug\net8.0\Basket.Application.pdb
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Application\bin\Debug\net8.0\Basket.Core.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Application\bin\Debug\net8.0\Basket.Core.pdb
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.csproj.AssemblyReference.cache
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.AssemblyInfoInputs.cache
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.AssemblyInfo.cs
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.csproj.CoreCompileInputs.cache
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.sourcelink.json
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.A.E41EB0DD.Up2Date
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Application\obj\Debug\net8.0\refint\Basket.Application.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.pdb
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Application\obj\Debug\net8.0\ref\Basket.Application.dll

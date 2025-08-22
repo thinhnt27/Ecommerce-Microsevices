@@ -36,3 +36,4 @@ Z:\Code\.NET\Ecommerce\bin\Debug\Catalog.Core.pdb
 Z:\Code\.NET\Ecommerce\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 Z:\Code\.NET\Ecommerce\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 Z:\Code\.NET\Ecommerce\obj\Debug\docker-c.35A3FFBA.Up2Date
+Z:\Code\.NET\Ecommerce\bin\Debug\Asp.Versioning.Http.dll

@@ -1,0 +1,12 @@
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Core\bin\Debug\net8.0\Basket.Core.deps.json
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Core\bin\Debug\net8.0\Basket.Core.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Core\bin\Debug\net8.0\Basket.Core.pdb
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.AssemblyInfoInputs.cache
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.AssemblyInfo.cs
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.csproj.CoreCompileInputs.cache
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.sourcelink.json
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net8.0\refint\Basket.Core.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.pdb
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net8.0\ref\Basket.Core.dll

@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "Z:\\Code\\.NET\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0D4A02A-A492-4705-B39C-261F3D837218}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|z:\\code\\.net\\ecommerce\\services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0D4A02A-A492-4705-B39C-261F3D837218}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|z:\\code\\.net\\ecommerce\\services\\basket\\basket.application\\handlers\\deletebasketbyusernamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\handlers\\deletebasketbyusernamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0D4A02A-A492-4705-B39C-261F3D837218}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|z:\\code\\.net\\ecommerce\\services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E0D4A02A-A492-4705-B39C-261F3D837218}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|z:\\code\\.net\\ecommerce\\services\\basket\\basket.application\\commands\\deletebasketbyusernamecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\commands\\deletebasketbyusernamecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0D4A02A-A492-4705-B39C-261F3D837218}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|z:\\code\\.net\\ecommerce\\services\\catalog\\catalog.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E0D4A02A-A492-4705-B39C-261F3D837218}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|z:\\code\\.net\\ecommerce\\services\\basket\\basket.application\\handlers\\createshoppingcarthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\handlers\\createshoppingcarthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|z:\\code\\.net\\ecommerce\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|z:\\code\\.net\\ecommerce\\services\\basket\\basket.application\\commands\\createshoppingcartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\commands\\createshoppingcartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|z:\\code\\.net\\ecommerce\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|z:\\code\\.net\\ecommerce\\services\\basket\\basket.application\\handlers\\getbasketbyusernamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\handlers\\getbasketbyusernamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069CC79E-6DD5-4F8E-B902-A7023E5BB744}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|z:\\code\\.net\\ecommerce\\services\\catalog\\catalog.application\\handlers\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{069CC79E-6DD5-4F8E-B902-A7023E5BB744}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\handlers\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|z:\\code\\.net\\ecommerce\\services\\basket\\basket.application\\queries\\getbasketbyusernamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\queries\\getbasketbyusernamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|z:\\code\\.net\\ecommerce\\services\\basket\\basket.application\\mappers\\basketmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\mappers\\basketmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|z:\\code\\.net\\ecommerce\\services\\basket\\basket.application\\mappers\\basketmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\mappers\\basketmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|z:\\code\\.net\\ecommerce\\services\\basket\\basket.application\\responses\\shoppingcartresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\responses\\shoppingcartresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|z:\\code\\.net\\ecommerce\\services\\basket\\basket.application\\responses\\shoppingcartitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\responses\\shoppingcartitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,77 +55,132 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.API\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Program.cs",
-              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.API\\Program.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
+              "Title": "DeleteBasketByUserNameHandler.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Handlers\\DeleteBasketByUserNameHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Handlers\\DeleteBasketByUserNameHandler.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Handlers\\DeleteBasketByUserNameHandler.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Handlers\\DeleteBasketByUserNameHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T06:48:29.894Z",
+              "WhenOpened": "2025-08-22T04:06:22.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Catalog.API",
-              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-21T06:42:01.371Z",
+              "Title": "DeleteBasketByUserNameCommand.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Commands\\DeleteBasketByUserNameCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Commands\\DeleteBasketByUserNameCommand.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Commands\\DeleteBasketByUserNameCommand.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Commands\\DeleteBasketByUserNameCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T04:05:24.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.API\\Dockerfile",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Dockerfile",
-              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.API\\Dockerfile",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-21T06:38:17.998Z",
+              "Title": "CreateShoppingCartHandler.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartHandler.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartHandler.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T03:59:21.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\docker-compose.override.yml",
-              "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-21T04:36:23.958Z"
+              "Title": "CreateShoppingCartCommand.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Commands\\CreateShoppingCartCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Commands\\CreateShoppingCartCommand.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Commands\\CreateShoppingCartCommand.cs*",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Commands\\CreateShoppingCartCommand.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T03:57:46.91Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-21T04:33:23.52Z"
+              "Title": "GetBasketByUserNameHandler.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Handlers\\GetBasketByUserNameHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Handlers\\GetBasketByUserNameHandler.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Handlers\\GetBasketByUserNameHandler.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Handlers\\GetBasketByUserNameHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T03:53:24.292Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DeleteProductCommandHandler.cs",
-              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Handlers\\DeleteProductCommandHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Handlers\\DeleteProductCommandHandler.cs",
-              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Handlers\\DeleteProductCommandHandler.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Handlers\\DeleteProductCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "GetBasketByUserNameQuery.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Queries\\GetBasketByUserNameQuery.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Queries\\GetBasketByUserNameQuery.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Queries\\GetBasketByUserNameQuery.cs*",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Queries\\GetBasketByUserNameQuery.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T04:33:19.244Z"
+              "WhenOpened": "2025-08-22T03:51:49.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasketMapper.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Mappers\\BasketMapper.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Mappers\\BasketMapper.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Mappers\\BasketMapper.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Mappers\\BasketMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T03:41:21.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShoppingCartResponse.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Responses\\ShoppingCartResponse.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Responses\\ShoppingCartResponse.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Responses\\ShoppingCartResponse.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Responses\\ShoppingCartResponse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T03:38:26.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShoppingCartItemResponse.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Responses\\ShoppingCartItemResponse.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Responses\\ShoppingCartItemResponse.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Responses\\ShoppingCartItemResponse.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Responses\\ShoppingCartItemResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T03:37:31.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasketMappingProfile.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Mappers\\BasketMappingProfile.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Mappers\\BasketMappingProfile.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Mappers\\BasketMappingProfile.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Mappers\\BasketMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T03:36:06.094Z",
+              "EditorCaption": ""
             }
           ]
         }
