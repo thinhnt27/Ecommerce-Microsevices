@@ -3,6 +3,62 @@
   "WorkspaceRootPath": "Z:\\Code\\.NET\\Ecommerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|z:\\code\\.net\\ecommerce\\services\\discount\\discount.application\\handlers\\deletediscountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:services\\discount\\discount.application\\handlers\\deletediscountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|z:\\code\\.net\\ecommerce\\services\\discount\\discount.application\\handlers\\getdiscountqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:services\\discount\\discount.application\\handlers\\getdiscountqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|z:\\code\\.net\\ecommerce\\services\\discount\\discount.application\\queries\\getdiscountquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:services\\discount\\discount.application\\queries\\getdiscountquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|z:\\code\\.net\\ecommerce\\services\\discount\\discount.application\\commands\\deletediscountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:services\\discount\\discount.application\\commands\\deletediscountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|z:\\code\\.net\\ecommerce\\services\\discount\\discount.application\\commands\\creatediscountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:services\\discount\\discount.application\\commands\\creatediscountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|z:\\code\\.net\\ecommerce\\services\\discount\\discount.application\\handlers\\updatediscountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:services\\discount\\discount.application\\handlers\\updatediscountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|z:\\code\\.net\\ecommerce\\services\\discount\\discount.application\\handlers\\creatediscountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:services\\discount\\discount.application\\handlers\\creatediscountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|z:\\code\\.net\\ecommerce\\services\\discount\\discount.application\\commands\\updatediscountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:services\\discount\\discount.application\\commands\\updatediscountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|z:\\code\\.net\\ecommerce\\services\\discount\\discount.application\\mappers\\discountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:services\\discount\\discount.application\\mappers\\discountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|z:\\code\\.net\\ecommerce\\services\\discount\\discount.application\\protos\\discount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:services\\discount\\discount.application\\protos\\discount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|z:\\code\\.net\\ecommerce\\services\\discount\\discount.application\\discount.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:services\\discount\\discount.application\\discount.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848B6BA7-CE61-4D3F-AB59-885A94572C26}|Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj|z:\\code\\.net\\ecommerce\\services\\discount\\discount.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848B6BA7-CE61-4D3F-AB59-885A94572C26}|Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj|solutionrelative:services\\discount\\discount.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F20B5F-6EDF-45AE-A47D-3E06F456C084}|Services\\Discount\\Discount.Core\\Discount.Core.csproj|z:\\code\\.net\\ecommerce\\services\\discount\\discount.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F20B5F-6EDF-45AE-A47D-3E06F456C084}|Services\\Discount\\Discount.Core\\Discount.Core.csproj|solutionrelative:services\\discount\\discount.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|z:\\code\\.net\\ecommerce\\services\\discount\\discount.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645634EC-BE5A-4940-90B1-3A0D59E5DAB2}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:services\\discount\\discount.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|z:\\code\\.net\\ecommerce\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -30,11 +86,180 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteDiscountCommandHandler.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Handlers\\DeleteDiscountCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Application\\Handlers\\DeleteDiscountCommandHandler.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Handlers\\DeleteDiscountCommandHandler.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Application\\Handlers\\DeleteDiscountCommandHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T08:24:55.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteDiscountCommand.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Commands\\DeleteDiscountCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Application\\Commands\\DeleteDiscountCommand.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Commands\\DeleteDiscountCommand.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Application\\Commands\\DeleteDiscountCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T08:23:42.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateDiscountCommandHandler.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Handlers\\UpdateDiscountCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Application\\Handlers\\UpdateDiscountCommandHandler.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Handlers\\UpdateDiscountCommandHandler.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Application\\Handlers\\UpdateDiscountCommandHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T08:19:46.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateDiscountCommand.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Commands\\UpdateDiscountCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Application\\Commands\\UpdateDiscountCommand.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Commands\\UpdateDiscountCommand.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Application\\Commands\\UpdateDiscountCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T08:18:27.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateDiscountCommandHandler.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Handlers\\CreateDiscountCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Application\\Handlers\\CreateDiscountCommandHandler.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Handlers\\CreateDiscountCommandHandler.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Application\\Handlers\\CreateDiscountCommandHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T08:13:47.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateDiscountCommand.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Commands\\CreateDiscountCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Application\\Commands\\CreateDiscountCommand.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Commands\\CreateDiscountCommand.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Application\\Commands\\CreateDiscountCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T08:12:10.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetDiscountQueryHandler.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Handlers\\GetDiscountQueryHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Application\\Handlers\\GetDiscountQueryHandler.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Handlers\\GetDiscountQueryHandler.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Application\\Handlers\\GetDiscountQueryHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBwAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T08:06:31.945Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "GetDiscountQuery.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Queries\\GetDiscountQuery.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Application\\Queries\\GetDiscountQuery.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Queries\\GetDiscountQuery.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Application\\Queries\\GetDiscountQuery.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T08:05:19.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "discount.proto",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Protos\\discount.proto",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Application\\Protos\\discount.proto",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Protos\\discount.proto",
+              "RelativeToolTip": "Services\\Discount\\Discount.Application\\Protos\\discount.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-08-23T07:43:54.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiscountProfile.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Mappers\\DiscountProfile.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Application\\Mappers\\DiscountProfile.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Mappers\\DiscountProfile.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Application\\Mappers\\DiscountProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:40:09.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Discount.Application.csproj",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Discount.Application.csproj",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Application\\Discount.Application.csproj",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Discount.Application.csproj",
+              "RelativeToolTip": "Services\\Discount\\Discount.Application\\Discount.Application.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-23T06:17:34.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Infrastructure\\Class1.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T06:16:35.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Core\\Class1.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Core\\Class1.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T06:16:01.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Application\\Class1.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Class1.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T06:15:36.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Dockerfile",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.API\\Dockerfile",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Dockerfile",
@@ -42,36 +267,35 @@
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-22T07:18:42.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T07:18:42.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "Dockerfile",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.API\\Dockerfile",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Dockerfile",
               "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.API\\Dockerfile",
               "RelativeToolTip": "Services\\Basket\\Basket.API\\Dockerfile",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-08-22T07:18:21.879Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.API\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Program.cs",
               "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.API\\Program.cs",
               "RelativeToolTip": "Services\\Basket\\Basket.API\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAABRwC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T07:08:11.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "docker-compose.override.yml",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\docker-compose.override.yml",
               "RelativeDocumentMoniker": "docker-compose.override.yml",
@@ -79,12 +303,11 @@
               "RelativeToolTip": "docker-compose.override.yml",
               "ViewState": "AgIAABgAAAAAAAAAAAAswCsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-22T07:01:58.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T07:01:58.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -92,8 +315,7 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-22T07:01:57.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T07:01:57.811Z"
             }
           ]
         }

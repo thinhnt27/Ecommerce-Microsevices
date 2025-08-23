@@ -1,0 +1,12 @@
+Z:\Code\.NET\Ecommerce\Services\Discount\Discount.Core\bin\Debug\net8.0\Discount.Core.deps.json
+Z:\Code\.NET\Ecommerce\Services\Discount\Discount.Core\bin\Debug\net8.0\Discount.Core.dll
+Z:\Code\.NET\Ecommerce\Services\Discount\Discount.Core\bin\Debug\net8.0\Discount.Core.pdb
+Z:\Code\.NET\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Code\.NET\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.AssemblyInfoInputs.cache
+Z:\Code\.NET\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.AssemblyInfo.cs
+Z:\Code\.NET\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.csproj.CoreCompileInputs.cache
+Z:\Code\.NET\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.sourcelink.json
+Z:\Code\.NET\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.dll
+Z:\Code\.NET\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net8.0\refint\Discount.Core.dll
+Z:\Code\.NET\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.pdb
+Z:\Code\.NET\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net8.0\ref\Discount.Core.dll
