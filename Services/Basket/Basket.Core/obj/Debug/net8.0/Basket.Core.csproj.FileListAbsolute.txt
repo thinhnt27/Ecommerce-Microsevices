@@ -10,3 +10,15 @@ Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.
 Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net8.0\refint\Basket.Core.dll
 Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.pdb
 Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net8.0\ref\Basket.Core.dll
+D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Core\bin\Debug\net8.0\Basket.Core.deps.json
+D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Core\bin\Debug\net8.0\Basket.Core.dll
+D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Core\bin\Debug\net8.0\Basket.Core.pdb
+D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.AssemblyInfoInputs.cache
+D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.AssemblyInfo.cs
+D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.csproj.CoreCompileInputs.cache
+D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.sourcelink.json
+D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.dll
+D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Core\obj\Debug\net8.0\refint\Basket.Core.dll
+D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.pdb
+D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Core\obj\Debug\net8.0\ref\Basket.Core.dll

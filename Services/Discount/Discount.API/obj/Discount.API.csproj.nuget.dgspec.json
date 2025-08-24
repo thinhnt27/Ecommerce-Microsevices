@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.API\\Discount.API.csproj": {}
+    "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.API\\Discount.API.csproj": {}
   },
   "projects": {
-    "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.API\\Discount.API.csproj": {
+    "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.API\\Discount.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.API\\Discount.API.csproj",
+        "projectUniqueName": "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.API\\Discount.API.csproj",
         "projectName": "Discount.API",
-        "projectPath": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.API\\Discount.API.csproj",
-        "packagesPath": "C:\\Users\\PCIT\\.nuget\\packages\\",
-        "outputPath": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.API\\obj\\",
+        "projectPath": "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.API\\Discount.API.csproj",
+        "packagesPath": "C:\\Users\\Ivor\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PCIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ivor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Discount.Application.csproj": {
-                "projectPath": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Discount.Application.csproj"
+              "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Application\\Discount.Application.csproj": {
+                "projectPath": "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Application\\Discount.Application.csproj"
               },
-              "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj": {
-                "projectPath": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj"
+              "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj": {
+                "projectPath": "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj"
               }
             }
           }
@@ -51,7 +51,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -85,24 +85,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Discount.Application.csproj": {
+    "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Application\\Discount.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Discount.Application.csproj",
+        "projectUniqueName": "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Application\\Discount.Application.csproj",
         "projectName": "Discount.Application",
-        "projectPath": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Discount.Application.csproj",
-        "packagesPath": "C:\\Users\\PCIT\\.nuget\\packages\\",
-        "outputPath": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\obj\\",
+        "projectPath": "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Application\\Discount.Application.csproj",
+        "packagesPath": "C:\\Users\\Ivor\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PCIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ivor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -117,8 +117,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Core\\Discount.Core.csproj": {
-                "projectPath": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Core\\Discount.Core.csproj"
+              "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Core\\Discount.Core.csproj": {
+                "projectPath": "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Core\\Discount.Core.csproj"
               }
             }
           }
@@ -133,7 +133,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -168,24 +168,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Core\\Discount.Core.csproj": {
+    "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Core\\Discount.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Core\\Discount.Core.csproj",
+        "projectUniqueName": "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Core\\Discount.Core.csproj",
         "projectName": "Discount.Core",
-        "projectPath": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Core\\Discount.Core.csproj",
-        "packagesPath": "C:\\Users\\PCIT\\.nuget\\packages\\",
-        "outputPath": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Core\\obj\\",
+        "projectPath": "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Core\\Discount.Core.csproj",
+        "packagesPath": "C:\\Users\\Ivor\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PCIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ivor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -212,7 +212,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -233,24 +233,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj": {
+    "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj",
         "projectName": "Discount.Infrastructure",
-        "projectPath": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\PCIT\\.nuget\\packages\\",
-        "outputPath": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Infrastructure\\obj\\",
+        "projectPath": "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Ivor\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PCIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ivor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -265,8 +265,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Discount.Application.csproj": {
-                "projectPath": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Application\\Discount.Application.csproj"
+              "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Application\\Discount.Application.csproj": {
+                "projectPath": "D:\\Code\\.NET\\Ecommerce-Microsevices\\Services\\Discount\\Discount.Application\\Discount.Application.csproj"
               }
             }
           }
@@ -281,7 +281,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -316,7 +316,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

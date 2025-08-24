@@ -23,3 +23,16 @@ Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\refint\Cat
 Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.pdb
 Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\ref\Catalog.Core.dll
 Z:\Code\.NET\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.sourcelink.json
+D:\Code\.NET\Ecommerce-Microsevices\Services\Catalog\Catalog.Core\bin\Debug\net8.0\Catalog.Core.deps.json
+D:\Code\.NET\Ecommerce-Microsevices\Services\Catalog\Catalog.Core\bin\Debug\net8.0\Catalog.Core.dll
+D:\Code\.NET\Ecommerce-Microsevices\Services\Catalog\Catalog.Core\bin\Debug\net8.0\Catalog.Core.pdb
+D:\Code\.NET\Ecommerce-Microsevices\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.csproj.AssemblyReference.cache
+D:\Code\.NET\Ecommerce-Microsevices\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.NET\Ecommerce-Microsevices\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.AssemblyInfoInputs.cache
+D:\Code\.NET\Ecommerce-Microsevices\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.AssemblyInfo.cs
+D:\Code\.NET\Ecommerce-Microsevices\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.csproj.CoreCompileInputs.cache
+D:\Code\.NET\Ecommerce-Microsevices\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.sourcelink.json
+D:\Code\.NET\Ecommerce-Microsevices\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.dll
+D:\Code\.NET\Ecommerce-Microsevices\Services\Catalog\Catalog.Core\obj\Debug\net8.0\refint\Catalog.Core.dll
+D:\Code\.NET\Ecommerce-Microsevices\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.pdb
+D:\Code\.NET\Ecommerce-Microsevices\Services\Catalog\Catalog.Core\obj\Debug\net8.0\ref\Catalog.Core.dll
