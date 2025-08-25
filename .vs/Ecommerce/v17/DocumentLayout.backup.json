@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "Z:\\Code\\.NET\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|z:\\code\\.net\\ecommerce\\services\\basket\\basket.application\\basket.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\basket.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|z:\\code\\.net\\ecommerce\\services\\basket\\basket.application\\handlers\\createshoppingcarthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\handlers\\createshoppingcarthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|z:\\code\\.net\\ecommerce\\services\\basket\\basket.application\\grpcservice\\discountgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\grpcservice\\discountgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145A5D38-9B36-40B1-91AF-1A12921E041F}|Services\\Basket\\Basket.API\\Basket.API.csproj|z:\\code\\.net\\ecommerce\\services\\basket\\basket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145A5D38-9B36-40B1-91AF-1A12921E041F}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|z:\\code\\.net\\ecommerce\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145A5D38-9B36-40B1-91AF-1A12921E041F}|Services\\Basket\\Basket.API\\Basket.API.csproj|z:\\code\\.net\\ecommerce\\services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{145A5D38-9B36-40B1-91AF-1A12921E041F}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848B6BA7-CE61-4D3F-AB59-885A94572C26}|Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj|z:\\code\\.net\\ecommerce\\services\\discount\\discount.infrastructure\\extensions\\dbextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848B6BA7-CE61-4D3F-AB59-885A94572C26}|Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj|solutionrelative:services\\discount\\discount.infrastructure\\extensions\\dbextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145A5D38-9B36-40B1-91AF-1A12921E041F}|Services\\Basket\\Basket.API\\Basket.API.csproj|z:\\code\\.net\\ecommerce\\services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145A5D38-9B36-40B1-91AF-1A12921E041F}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbExtension.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Infrastructure\\Extensions\\DbExtension.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Infrastructure\\Extensions\\DbExtension.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Infrastructure\\Extensions\\DbExtension.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Infrastructure\\Extensions\\DbExtension.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T03:41:37.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Basket.Application",
-              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Basket.Application.csproj",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Basket.Application.csproj",
-              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Basket.Application.csproj",
-              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Basket.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-25T02:39:01.313Z",
+              "Title": "CreateShoppingCartHandler.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartHandler.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartHandler.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwCAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T03:23:54.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-25T03:22:02.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T03:04:53.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.API\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Program.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.API\\Program.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAC4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T02:57:26.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\appsettings.json",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.API\\appsettings.json",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T02:56:01.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiscountGrpcService.cs",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\GrpcService\\DiscountGrpcService.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\GrpcService\\DiscountGrpcService.cs",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\GrpcService\\DiscountGrpcService.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\GrpcService\\DiscountGrpcService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T02:43:49.285Z",
               "EditorCaption": ""
             }
           ]

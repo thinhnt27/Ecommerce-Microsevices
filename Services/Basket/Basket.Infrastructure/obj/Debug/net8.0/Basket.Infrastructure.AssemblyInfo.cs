@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Basket.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52cb26cff19a883eae1f1eb67571c6c5854c86f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb2310c6f779ad65474a1078c948954a088f9f69")]
 [assembly: System.Reflection.AssemblyProductAttribute("Basket.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Basket.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
