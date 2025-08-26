@@ -113,3 +113,10 @@ D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.API\obj\Debug\net8.0\
 D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.API\obj\Debug\net8.0\Basket.API.pdb
 D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.API\obj\Debug\net8.0\Basket.API.genruntimeconfig.cache
 D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.API\obj\Debug\net8.0\ref\Basket.API.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Google.Protobuf.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Core.Api.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Net.Client.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Net.Common.dll

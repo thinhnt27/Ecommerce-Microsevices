@@ -150,3 +150,5 @@ Z:\Code\.NET\Ecommerce\bin\Debug\Discount.API.pdb
 Z:\Code\.NET\Ecommerce\bin\Debug\Discount.Application.pdb
 Z:\Code\.NET\Ecommerce\bin\Debug\Discount.Core.pdb
 Z:\Code\.NET\Ecommerce\bin\Debug\Discount.Infrastructure.pdb
+Z:\Code\.NET\Ecommerce\bin\Debug\Grpc.Net.ClientFactory.dll
+Z:\Code\.NET\Ecommerce\bin\Debug\Grpc.Net.Client.dll
