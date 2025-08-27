@@ -120,3 +120,15 @@ Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Core.Api
 Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Net.Client.dll
 Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
 Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Net.Common.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\MassTransit.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\MassTransit.AspNetCoreIntegration.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Automatonymous.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\GreenPipes.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\NewId.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\EventBus.Messages.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\EventBus.Messages.pdb

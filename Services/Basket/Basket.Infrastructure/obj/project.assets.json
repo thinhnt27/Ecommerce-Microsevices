@@ -451,6 +451,7 @@
         "dependencies": {
           "AutoMapper": "13.0.1",
           "Basket.Core": "1.0.0",
+          "EventBus.Messages": "1.0.0",
           "Grpc.AspNetCore": "2.64.0",
           "MediatR": "12.3.0"
         },
@@ -469,6 +470,16 @@
         },
         "runtime": {
           "bin/placeholder/Basket.Core.dll": {}
+        }
+      },
+      "EventBus.Messages/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EventBus.Messages.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EventBus.Messages.dll": {}
         }
       }
     }
@@ -1221,6 +1232,11 @@
       "type": "project",
       "path": "../Basket.Core/Basket.Core.csproj",
       "msbuildProject": "../Basket.Core/Basket.Core.csproj"
+    },
+    "EventBus.Messages/1.0.0": {
+      "type": "project",
+      "path": "../../../Infrastructure/EventBus.Messages/EventBus.Messages.csproj",
+      "msbuildProject": "../../../Infrastructure/EventBus.Messages/EventBus.Messages.csproj"
     }
   },
   "projectFileDependencyGroups": {

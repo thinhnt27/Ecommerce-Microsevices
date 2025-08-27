@@ -30,3 +30,5 @@ D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Application\obj\Debug
 D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Application\obj\Debug\net8.0\refint\Basket.Application.dll
 D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.pdb
 D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Application\obj\Debug\net8.0\ref\Basket.Application.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Application\bin\Debug\net8.0\EventBus.Messages.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Application\bin\Debug\net8.0\EventBus.Messages.pdb

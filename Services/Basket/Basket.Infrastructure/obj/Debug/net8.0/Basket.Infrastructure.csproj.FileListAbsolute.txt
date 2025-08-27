@@ -51,3 +51,5 @@ D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Infrastructure\obj\De
 D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Infrastructure\obj\Debug\net8.0\refint\Basket.Infrastructure.dll
 D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Infrastructure\obj\Debug\net8.0\Basket.Infrastructure.pdb
 D:\Code\.NET\Ecommerce-Microsevices\Services\Basket\Basket.Infrastructure\obj\Debug\net8.0\ref\Basket.Infrastructure.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Infrastructure\bin\Debug\net8.0\EventBus.Messages.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.Infrastructure\bin\Debug\net8.0\EventBus.Messages.pdb
