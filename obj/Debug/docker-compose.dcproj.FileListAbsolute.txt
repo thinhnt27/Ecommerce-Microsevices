@@ -186,3 +186,15 @@ Z:\Code\.NET\Ecommerce\bin\Debug\Newtonsoft.Json.Bson.dll
 Z:\Code\.NET\Ecommerce\bin\Debug\RabbitMQ.Client.dll
 Z:\Code\.NET\Ecommerce\bin\Debug\EventBus.Messages.dll
 Z:\Code\.NET\Ecommerce\bin\Debug\EventBus.Messages.pdb
+Z:\Code\.NET\Ecommerce\bin\Debug\Common.Logging.dll
+Z:\Code\.NET\Ecommerce\bin\Debug\Serilog.dll
+Z:\Code\.NET\Ecommerce\bin\Debug\Serilog.Extensions.Hosting.dll
+Z:\Code\.NET\Ecommerce\bin\Debug\Serilog.Exceptions.dll
+Z:\Code\.NET\Ecommerce\bin\Debug\Serilog.Sinks.Console.dll
+Z:\Code\.NET\Ecommerce\bin\Debug\Serilog.Sinks.Elasticsearch.dll
+Z:\Code\.NET\Ecommerce\bin\Debug\Serilog.Extensions.Logging.dll
+Z:\Code\.NET\Ecommerce\bin\Debug\Elasticsearch.Net.dll
+Z:\Code\.NET\Ecommerce\bin\Debug\Serilog.Sinks.PeriodicBatching.dll
+Z:\Code\.NET\Ecommerce\bin\Debug\Serilog.Sinks.File.dll
+Z:\Code\.NET\Ecommerce\bin\Debug\Serilog.Formatting.Elasticsearch.dll
+Z:\Code\.NET\Ecommerce\bin\Debug\Common.Logging.pdb
