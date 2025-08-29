@@ -198,3 +198,5 @@ Z:\Code\.NET\Ecommerce\bin\Debug\Serilog.Sinks.PeriodicBatching.dll
 Z:\Code\.NET\Ecommerce\bin\Debug\Serilog.Sinks.File.dll
 Z:\Code\.NET\Ecommerce\bin\Debug\Serilog.Formatting.Elasticsearch.dll
 Z:\Code\.NET\Ecommerce\bin\Debug\Common.Logging.pdb
+Z:\Code\.NET\Ecommerce\bin\Debug\Asp.Versioning.Mvc.ApiExplorer.dll
+Z:\Code\.NET\Ecommerce\bin\Debug\Asp.Versioning.Mvc.dll

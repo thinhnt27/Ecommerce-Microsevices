@@ -159,3 +159,4 @@ Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Elasticsearch
 Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Serilog.Formatting.Elasticsearch.dll
 Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Serilog.Sinks.Elasticsearch.dll
 Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Serilog.Sinks.PeriodicBatching.dll
+Z:\Code\.NET\Ecommerce\Services\Basket\Basket.API\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll
