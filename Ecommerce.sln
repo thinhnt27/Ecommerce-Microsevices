@@ -53,6 +53,24 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus.Messages", "Infras
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Logging", "Infrastructure\Common.Logging\Common.Logging.csproj", "{6E373A1A-2395-4E28-A16D-501808D6B058}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Deployment", "Deployment", "{8CAB1F12-4C58-4222-AC80-6EEBA028561C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "k8s", "k8s", "{0EC14B33-5810-4BE2-ADC6-FA22A9C23D39}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "catalog", "catalog", "{B3181CE5-9857-4596-81C2-9642B5EAA733}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "catalog-api", "catalog-api", "{D6C955B7-E0BC-47A3-9F3E-5BE971F42219}"
+	ProjectSection(SolutionItems) = preProject
+		catalog-api.yaml = catalog-api.yaml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "catalog-db", "catalog-db", "{1B6B15B6-F91B-4438-8AF4-C20A54DD80DC}"
+	ProjectSection(SolutionItems) = preProject
+		catalog-db.yaml = catalog-db.yaml
+		mongo-configmap.yaml = mongo-configmap.yaml
+		mongo-secret.yaml = mongo-secret.yaml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -162,6 +180,10 @@ Global
 		{3F2551D3-7F55-471A-AF8D-6753C45A6865} = {91720AD1-2D66-48FF-9187-A9EC50E4EFD7}
 		{6061B9D4-F5C5-46F7-80F4-496D939857DF} = {A6DBBD41-F175-48D9-B7C9-FF4226BE92DF}
 		{6E373A1A-2395-4E28-A16D-501808D6B058} = {A6DBBD41-F175-48D9-B7C9-FF4226BE92DF}
+		{0EC14B33-5810-4BE2-ADC6-FA22A9C23D39} = {8CAB1F12-4C58-4222-AC80-6EEBA028561C}
+		{B3181CE5-9857-4596-81C2-9642B5EAA733} = {0EC14B33-5810-4BE2-ADC6-FA22A9C23D39}
+		{D6C955B7-E0BC-47A3-9F3E-5BE971F42219} = {B3181CE5-9857-4596-81C2-9642B5EAA733}
+		{1B6B15B6-F91B-4438-8AF4-C20A54DD80DC} = {B3181CE5-9857-4596-81C2-9642B5EAA733}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A4396782-0AF1-4D82-AB22-804A631ECB8D}

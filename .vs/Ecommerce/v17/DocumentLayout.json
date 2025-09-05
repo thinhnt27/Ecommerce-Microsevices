@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "Z:\\Code\\.NET\\Ecommerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1B6B15B6-F91B-4438-8AF4-C20A54DD80DC}|NewFolder1{1B6B15B6-F91B-4438-8AF4-C20A54DD80DC}|Z:\\Code\\.NET\\Ecommerce\\catalog-db.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1B6B15B6-F91B-4438-8AF4-C20A54DD80DC}|NewFolder1{1B6B15B6-F91B-4438-8AF4-C20A54DD80DC}|solutionrelative:catalog-db.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6B15B6-F91B-4438-8AF4-C20A54DD80DC}|NewFolder1{1B6B15B6-F91B-4438-8AF4-C20A54DD80DC}|Z:\\Code\\.NET\\Ecommerce\\mongo-secret.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1B6B15B6-F91B-4438-8AF4-C20A54DD80DC}|NewFolder1{1B6B15B6-F91B-4438-8AF4-C20A54DD80DC}|solutionrelative:mongo-secret.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6B15B6-F91B-4438-8AF4-C20A54DD80DC}|NewFolder1{1B6B15B6-F91B-4438-8AF4-C20A54DD80DC}|Z:\\Code\\.NET\\Ecommerce\\mongo-configmap.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1B6B15B6-F91B-4438-8AF4-C20A54DD80DC}|NewFolder1{1B6B15B6-F91B-4438-8AF4-C20A54DD80DC}|solutionrelative:mongo-configmap.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C955B7-E0BC-47A3-9F3E-5BE971F42219}|NewFolder1{D6C955B7-E0BC-47A3-9F3E-5BE971F42219}|Z:\\Code\\.NET\\Ecommerce\\catalog-api.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D6C955B7-E0BC-47A3-9F3E-5BE971F42219}|NewFolder1{D6C955B7-E0BC-47A3-9F3E-5BE971F42219}|solutionrelative:catalog-api.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|z:\\code\\.net\\ecommerce\\services\\basket\\basket.application\\queries\\getbasketbyusernamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E161C68-05F4-4AE9-9A6E-6AB3B0E6BFBB}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\queries\\getbasketbyusernamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -171,6 +187,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "catalog-db.yaml",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\catalog-db.yaml",
+              "RelativeDocumentMoniker": "catalog-db.yaml",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\catalog-db.yaml",
+              "RelativeToolTip": "catalog-db.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-09-05T02:30:06.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mongo-secret.yaml",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\mongo-secret.yaml",
+              "RelativeDocumentMoniker": "mongo-secret.yaml",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\mongo-secret.yaml",
+              "RelativeToolTip": "mongo-secret.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-09-05T02:29:48.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mongo-configmap.yaml",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\mongo-configmap.yaml",
+              "RelativeDocumentMoniker": "mongo-configmap.yaml",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\mongo-configmap.yaml",
+              "RelativeToolTip": "mongo-configmap.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-09-05T02:29:24.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "catalog-api.yaml",
+              "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\catalog-api.yaml",
+              "RelativeDocumentMoniker": "catalog-api.yaml",
+              "ToolTip": "Z:\\Code\\.NET\\Ecommerce\\catalog-api.yaml",
+              "RelativeToolTip": "catalog-api.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-09-05T02:15:27.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GetBasketByUserNameQuery.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Queries\\GetBasketByUserNameQuery.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Queries\\GetBasketByUserNameQuery.cs",
@@ -183,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "CheckoutOrderCommandV2Handler.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Ordering\\Ordering.Application\\Handlers\\CheckoutOrderCommandV2Handler.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Handlers\\CheckoutOrderCommandV2Handler.cs",
@@ -195,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "DeleteOrderCommandHandler.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Ordering\\Ordering.Application\\Handlers\\DeleteOrderCommandHandler.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Handlers\\DeleteOrderCommandHandler.cs",
@@ -207,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "CheckoutOrderCommandHandler.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Ordering\\Ordering.Application\\Handlers\\CheckoutOrderCommandHandler.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Handlers\\CheckoutOrderCommandHandler.cs",
@@ -219,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "BasketOrderingConsumer.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
@@ -231,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "BasketOrderingConsumerV2.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumerV2.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumerV2.cs",
@@ -243,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "BasketController.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.API\\Controllers\\V2\\BasketController.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Controllers\\V2\\BasketController.cs",
@@ -255,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "BasketMappingProfile.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Application\\Mappers\\BasketMappingProfile.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Mappers\\BasketMappingProfile.cs",
@@ -267,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "OrderController.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Ordering\\Ordering.API\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Controllers\\OrderController.cs",
@@ -279,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "OrderMappingProfile.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Ordering\\Ordering.Application\\Mappers\\OrderMappingProfile.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Mappers\\OrderMappingProfile.cs",
@@ -291,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "CheckoutOrderCommandV2.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Ordering\\Ordering.Application\\Commands\\CheckoutOrderCommandV2.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Commands\\CheckoutOrderCommandV2.cs",
@@ -303,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "EventBusConstant.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Infrastructure\\EventBus.Messages\\Common\\EventBusConstant.cs",
               "RelativeDocumentMoniker": "Infrastructure\\EventBus.Messages\\Common\\EventBusConstant.cs",
@@ -315,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "CheckoutOrderCommandValidator.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Ordering\\Ordering.Application\\Validators\\CheckoutOrderCommandValidator.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Validators\\CheckoutOrderCommandValidator.cs",
@@ -327,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "CheckoutOrderCommandValidatorV2.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Ordering\\Ordering.Application\\Validators\\CheckoutOrderCommandValidatorV2.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Validators\\CheckoutOrderCommandValidatorV2.cs",
@@ -339,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Ordering\\Ordering.API\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Program.cs",
@@ -351,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.API\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Program.cs",
@@ -363,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "BasketCheckoutEvent.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Infrastructure\\EventBus.Messages\\Events\\BasketCheckoutEvent.cs",
               "RelativeDocumentMoniker": "Infrastructure\\EventBus.Messages\\Events\\BasketCheckoutEvent.cs",
@@ -375,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "BasketCheckoutEventV2.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Infrastructure\\EventBus.Messages\\Events\\BasketCheckoutEventV2.cs",
               "RelativeDocumentMoniker": "Infrastructure\\EventBus.Messages\\Events\\BasketCheckoutEventV2.cs",
@@ -387,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "BasketCheckoutV2.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Core\\Entities\\BasketCheckoutV2.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Entities\\BasketCheckoutV2.cs",
@@ -399,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "BasketController.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
@@ -411,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "BasketCheckout.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.Core\\Entities\\BasketCheckout.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Entities\\BasketCheckout.cs",
@@ -423,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "DbExtension.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.Infrastructure\\Extensions\\DbExtension.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.Infrastructure\\Extensions\\DbExtension.cs",
@@ -435,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "OrderContextSeed.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContextSeed.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContextSeed.cs",
@@ -447,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "OrderContextFactory.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContextFactory.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContextFactory.cs",
@@ -459,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "OrderContext.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContext.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContext.cs",
@@ -471,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "docker-compose.override.yml",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\docker-compose.override.yml",
               "RelativeDocumentMoniker": "docker-compose.override.yml",
@@ -483,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 42,
               "Title": "Dockerfile",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.API\\Dockerfile",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Dockerfile",
@@ -495,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -507,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.API\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.API\\Program.cs",
@@ -519,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "appsettings.json",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Ordering\\Ordering.API\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\appsettings.json",
@@ -531,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "Ordering.API.csproj",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
@@ -543,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "appsettings.json",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.API\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.API\\appsettings.json",
@@ -555,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "appsettings.json",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.API\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\appsettings.json",
@@ -567,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "appsettings.json",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Basket\\Basket.API\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\appsettings.json",
@@ -579,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "Common.Logging.csproj",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Infrastructure\\Common.Logging\\Common.Logging.csproj",
               "RelativeDocumentMoniker": "Infrastructure\\Common.Logging\\Common.Logging.csproj",
@@ -591,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "Logging.cs",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Infrastructure\\Common.Logging\\Logging.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Common.Logging\\Logging.cs",
@@ -603,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "Dockerfile",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Ordering\\Ordering.API\\Dockerfile",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Dockerfile",
@@ -615,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "Dockerfile",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Discount\\Discount.API\\Dockerfile",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.API\\Dockerfile",
@@ -627,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "Dockerfile",
               "DocumentMoniker": "Z:\\Code\\.NET\\Ecommerce\\Services\\Catalog\\Catalog.API\\Dockerfile",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Dockerfile",
